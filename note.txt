@@ -1,0 +1,82 @@
+Extra Small- 100%
+Small- 540
+medium- 720
+Large- 960
+Extra large-1140
+Extra extra large- 1320
+
+
+Font Family===
+poppins
+400,500,700
+ font-family: "Poppins", sans-serif;
+
+roboto
+400
+font-family: "Roboto", sans-serif;
+
+color===
+green: #21B573
+red: #FD511A
+black: #000000
+
+padding========
+
+common padding--
+
+xxl-xl-lg              md           sm-col
+  100px                80px         60/70px  
+
+Header========
+
+Header padding
+
+xxl-xl-lg              md           sm-col
+  17px                17px             5px  
+
+Banner======
+
+Banner padding
+
+xxl-xl-lg              md           sm-col
+  pb-65              pb-65px         pb-65  
+
+
+Banner h1
+
+xxl-xl-lg              md           sm-col
+
+48                      48            35
+
+
+feature=====
+
+feature padding
+xxl-xl-lg              md           sm-col
+  pb-100              pb-80px         pb-60 
+
+
+course=====
+
+course title
+xxl-xl-lg              md           sm-col
+36px                  36px            28
+
+course h2
+xxl-xl-lg              md           sm-col
+24                      24             20
+
+
+
+
+
+
+******normaly j bisoy gula screen wise different hoy*****
+
+xxl-xl-lg              md           sm-col
+order- content left theke right e newa
+size- img siz, font size etc
+space- margin,padding
+alignment- left,right,center alignment.
+
+Note: content center e nite hole left,right e margin or padding thakle khokono content center e asbe na
